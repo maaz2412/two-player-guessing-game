@@ -1,1 +1,4 @@
-# two-player-guessing-game
+Hey everyone i made this secret number guessing game using some basic object oriented concepts in python. Although it could be made without the use of Object Oriented concepts but to make my code smaller and efficient i used these concepts. This game is console based.
+The working of the game is as follows. First the program asks the user about how many players will be playing. This is just to verify that the players indeed are 2 not more than it or less as that will lead to a failure to proceed further.
+Next the players can create nickanmes for the game. 
+Next the program asks both the players that who wants to enter the secret number and then takes the input. After taking this input the console is cleared and then the other player can guess the number and he has 3 chances to do so other wise he looses.
